@@ -1,0 +1,13 @@
+SECOM NUMERICAL DATA ANALYSIS
+Student: Anonuevo
+Student ID: TUPM-26-1079
+Random Seed: 261079
+Verification Value: 209
+Sample Size: 225
+Assigned Features: Feature_318, Feature_105, Feature_018, Feature_517, Feature_107
+Pass Records: 211
+Fail Records: 14
+Sample Failure: 6.22%
+Highest-SD Feature: Feature_018
+Highest Sample SD: 2.8007
+Verification: PASSED
