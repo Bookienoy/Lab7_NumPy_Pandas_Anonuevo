@@ -1,0 +1,12 @@
+STATISTICAL ROBUSTNESS AND SENSITIVITY REPORT
+Student: Anonuevo (TUPM-26-1079)
+Random Seed: 261079
+Bootstrap Repetitions: 290
+Selected Features: Feature_320, Feature_105, Feature_018, Feature_517, Feature_106
+Largest Change in Mean Difference: 0.2859
+Features with Changed Difference Sign: 0
+Features with Changed Ranking: 0
+Reproducibility Verified: True
+
+Interpretation:
+Filling missing values with medians changes group mean differences and rankings slightly compared to available-case analysis, showing why preprocessing choices should be checked before making engineering conclusions.
